@@ -6,4 +6,6 @@
 
 [Hi](https://koreahaos.github.io/ssp16-team5/doc/prsent/reveals_slides/index.html)
 
+[Slides](http://slides.com/koreahaos/deck-2/fullscreen?token=eB7r4KLa)
+
 
